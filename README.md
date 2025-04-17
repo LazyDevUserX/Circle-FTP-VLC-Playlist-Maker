@@ -1,4 +1,4 @@
-# Circle FTP Playlist Maker 🎵
+# CircleFTP to VLC 🎵
 
 A Tampermonkey userscript that collects all valid links from Circle FTP directories and generates an XSPF playlist, ready to use with VLC and other media players.
 
